@@ -1,5 +1,6 @@
 body {
 	font-family: 'Open Sans', sans-serif;
+	margin: 40px;
 }
 
 form {
@@ -41,6 +42,9 @@ input:focus, textarea:focus {
 .portfolio-content {
 	line-height: 2;
 	color: #555;
+	margin-top: 80px;
+	margin-left: -200px;
+
 }
 
 .portfolio-content a {
